@@ -1,4 +1,4 @@
-package com.example.servitech
+package com.example.doctor_app
 
 import io.flutter.embedding.android.FlutterActivity
 

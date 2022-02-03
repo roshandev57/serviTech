@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289263671828",
+    "project_id": "servitech-45568",
+    "storage_bucket": "servitech-45568.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289263671828:android:1b225b752c5bf339f6e501",
+        "android_client_info": {
+          "package_name": "com.example.servitech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289263671828-obnp9t8o7fag677l0a52fhgs27t50qve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS9DkB6wLDcWtvThRqUH7S6Pl6cEvwp1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289263671828-obnp9t8o7fag677l0a52fhgs27t50qve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
