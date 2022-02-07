@@ -22,7 +22,7 @@ class LoginBody extends StatelessWidget {
           ...buildLoginTextFields(_state),
           if (viewmodel.errorMessage != null)
             Text(
-              viewmodel.errorMessage,
+              'The email or password is wrong! ',
               style: TextStyle(color: Colors.red, fontSize: 20.0),
             ),
           const SizedBox(height: 10.0),
